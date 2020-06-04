@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+    	
+    <storageModule moduleId="org.eclipse.cdt.core.settings">
+        		
+        <cconfiguration id="org.eclipse.cdt.core.default.config.2039320201">
+            			
+            <storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.2039320201" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+                				
+                <externalSettings/>
+                				
+                <extensions/>
+                			
+            </storageModule>
+            			
+            <storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+            		
+        </cconfiguration>
+        	
+    </storageModule>
+    	
+    <storageModule moduleId="org.eclipse.cdt.core.pathentry">
+        		
+        <pathentry include="/home/ubuntunux/vulkan/1.1.85.0/x86_64/include" kind="inc" path="" system="true"/>
+        		
+        <pathentry include="/home/ubuntunux/vulkan/1.1.85.0/x86_64/include/vulkan" kind="inc" path="" system="true"/>
+        		
+        <pathentry include="/usr/include" kind="inc" path="" system="true"/>
+        		
+        <pathentry include="/usr/include/c++/7" kind="inc" path="" system="true"/>
+        		
+        <pathentry include="/usr/include/x86_64-linux-gnu" kind="inc" path="" system="true"/>
+        		
+        <pathentry include="/usr/include/x86_64-linux-gnu/c++/7" kind="inc" path="" system="true"/>
+        		
+        <pathentry include="/usr/local/include" kind="inc" path="" system="true"/>
+        		
+        <pathentry kind="src" path=""/>
+        		
+        <pathentry kind="out" path="build"/>
+        	
+    </storageModule>
+    	
+    <storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+    
+</cproject>
